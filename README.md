@@ -4,7 +4,8 @@
 **Hi there** 👋
 
 #### Work
-- Security Engineer (5 years)
+
+I am employed in the security industry for five years.
   - Web Application Security Analyst
   - Corporate IT Security Analyst
 
